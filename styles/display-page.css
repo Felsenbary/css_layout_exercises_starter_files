@@ -1,0 +1,47 @@
+body{
+	font-size: 0px;
+	 }
+
+.box{
+	
+	border: 1px solid black;
+	width: 800px;
+	margin-top: 50px;
+	margin-right: auto;
+	margin-left: auto;
+
+}
+
+.green{
+	background: green;
+	width: 50%;
+	height:200px;
+	display: inline-block;
+
+}
+.blue{
+	background: blue;
+	width: 50%;
+	height: 200px;
+	display: inline-block;
+}
+.gray{
+	background: gray;
+	width: 33.33%;
+	height: 300px;
+	display: inline-block;
+}
+.black{
+	background: black;
+	width: 33.33%;
+	height: 300px;
+	display: inline-block;
+
+}
+.beige{
+	background: orange;
+	width: 33.33%;
+	height: 300px;
+	display: inline-block;
+
+}
